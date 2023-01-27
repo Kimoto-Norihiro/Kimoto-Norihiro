@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Kimoto-Norihiro&left_color=gray&right_color=blue)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kimoto-Norihiro&theme=vue)
  
